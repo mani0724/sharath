@@ -5834,7 +5834,7 @@ div.swiper-pagination-custom, .swiper-pagination-fraction {
     color: #8E88B8!important;
 }
 .page-header {
-    background-image: url(https://via.placeholder.com/1920x350.png);
+    background-image: url(images/ourimage/about-us.jpeg);
 }
 /* Header */
 .header-fullwidth .octf-area-wrap {
@@ -6056,10 +6056,10 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     background-size: cover;
 }
 .misc-box-bg1 {
-    background-image: url(https://via.placeholder.com/570x250.png);
+    background-image: url(images/ourimage/countries.jpeg);
 }
 .misc-box-bg2 {
-    background-image: url(https://via.placeholder.com/570x250.png);
+    background-image: url(images/ourimage/happy.jpeg);
 }
 .misc-box h5 {
     color: #fff;
@@ -6108,7 +6108,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 .technology-v1 {
     padding-top: 120px;
     padding-bottom: 120px;
-    background-image:url('https://via.placeholder.com/1920x585.png');
+    background-image:url('images/ourimage/trusting.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -6743,12 +6743,12 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 }
 .about-v5 {
     background-color: #211F3B;
-    background-image: url(https://via.placeholder.com/321x447.png);
+    background-image: url(images/ourimage/WHAT-WE-ACTUALLY-DO-322-.png);
     background-repeat: no-repeat;
     padding: 130px 0 120px 0;
 }
 .overlay-image-about5 {
-    background-image: url(https://via.placeholder.com/322x444.png);
+    background-image: url(images/background/bg-art-6.png);
     background-position: bottom right;
     background-repeat: no-repeat;
     background-color: transparent;
